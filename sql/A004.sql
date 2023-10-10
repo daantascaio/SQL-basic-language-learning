@@ -9,7 +9,7 @@ VALUES (
     "Tanner",
     "Mayo",
     "vitae.diam2@consectetueripsum.ca",
-    "QLN12HIN3RL",
+    "QLN12HI2N3RL",
     "2021-07-25 22:12:26"
   ),
 (
