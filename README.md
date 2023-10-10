@@ -1,2 +1,1 @@
-# SQL_learning
-Learning the SQL language
+Learning the basics of the SQL language, starting something
